@@ -206,6 +206,18 @@ BootForm::radios('gender', 'Gender', $genders, 'female');
 BootForm::submit('Login');
 ```
 
+Custum clasess:
+
+```php
+// Pretty simple.
+BootForm::submit('Login', ['class'=>'btn btn-success']);
+```
+
+```php
+// Pretty simple.
+BootForm::button('Login');
+```
+
 ### Closing the form
 
 ```php
