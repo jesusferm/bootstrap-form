@@ -12,7 +12,7 @@
         "email": "contact@linuxitos.com"
     }],
     "require": {
-        "php": "^7.3|^8.0|^8.1",
+        "php": "^8.0|^8.1",
         "illuminate/config": "^9.16",
         "illuminate/session": "9.16",
         "illuminate/support": "9.16",
