@@ -1,22 +1,22 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
+        'reference' => 'ebbcec182f817dcf963ba13faebe1e68271373ea',
         'name' => 'blip/bootstrap-form',
         'dev' => true,
     ),
     'versions' => array(
         'blip/bootstrap-form' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => NULL,
+            'reference' => 'ebbcec182f817dcf963ba13faebe1e68271373ea',
             'dev_requirement' => false,
         ),
         'cordoval/hamcrest-php' => array(

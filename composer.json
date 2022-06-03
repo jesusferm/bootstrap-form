@@ -8,8 +8,8 @@
     ],
     "license": "MIT",
     "authors": [{
-        "name": "Dwight Watson",
-        "email": "dwightwatson@me.com"
+        "name": "linuxitos",
+        "email": "contact@linuxitos.com"
     }],
     "require": {
         "php": "^7.3|^8.0|^8.1",
