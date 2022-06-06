@@ -1,12 +1,12 @@
-# BootstrapForm, forms for Laravel 9 and boostrap 5
+# BootstrapForm, forms for Laravel 9 and boostrap 3, 4 & 5
 
-This is a package for simply creating Bootstrap 5 styled form groups in Laravel 9.
+This is a package for simply creating Bootstrap 5 styled form groups in Laravel 8 & 9.
 It extends the normal form builder to provide you with horizontal form groups
  completed with labels, error messages and appropriate class usage.
 
 ## Introduction
 
-Simply use the `BootstrapForm` facade in the place of the `Form` facade when you want to generate a Bootstrap 3 form group.
+Simply use the `BootstrapForm` facade in the place of the `Form` facade when you want to generate a Bootstrap 3, 4 & 5 form group.
 
 ```php
 BootForm::text('username');
