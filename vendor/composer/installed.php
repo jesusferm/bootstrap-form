@@ -5,7 +5,7 @@
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'ebbcec182f817dcf963ba13faebe1e68271373ea',
+        'reference' => 'b960ddf2060b87fd070942f2ad128d97d4b223c8',
         'name' => 'blip/bootstrap-form',
         'dev' => true,
     ),
@@ -16,7 +16,7 @@
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'ebbcec182f817dcf963ba13faebe1e68271373ea',
+            'reference' => 'b960ddf2060b87fd070942f2ad128d97d4b223c8',
             'dev_requirement' => false,
         ),
         'cordoval/hamcrest-php' => array(
@@ -218,12 +218,12 @@
             'dev_requirement' => false,
         ),
         'mockery/mockery' => array(
-            'pretty_version' => '1.5.0',
-            'version' => '1.5.0.0',
+            'pretty_version' => '1.4.4',
+            'version' => '1.4.4.0',
             'type' => 'library',
             'install_path' => __DIR__ . '/../mockery/mockery',
             'aliases' => array(),
-            'reference' => 'c10a5f6e06fc2470ab1822fa13fa2a7380f8fbac',
+            'reference' => 'e01123a0e847d52d186c5eb4b9bf58b0c6d00346',
             'dev_requirement' => true,
         ),
         'myclabs/deep-copy' => array(

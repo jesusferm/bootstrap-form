@@ -13,14 +13,14 @@
     }],
     "require": {
         "php": "^8.0|^8.1",
-        "illuminate/config": "^9.16",
-        "illuminate/session": "9.16",
-        "illuminate/support": "9.16",
+        "illuminate/config": "~8.0|^9.0",
+        "illuminate/session": "~8.0|^9.0",
+        "illuminate/support": "~8.0|^9.0",
         "laravelcollective/html": "^6.0"
     },
     "require-dev": {
-        "mockery/mockery": "^1.3",
-        "phpunit/phpunit": "^9.0"
+        "mockery/mockery": "~1.4.1",
+        "phpunit/phpunit": "~9.5"
     },
     "autoload": {
         "psr-4": {
